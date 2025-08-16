@@ -152,22 +152,12 @@ This project uses IBM’s publicly available HR dataset for employee attrition a
 \- Storytelling with business KPIs and employee metrics
 
 
-
 ---
 
-
-
-\## 🧑‍💻 Author
-
-
+## 🧑‍💻 Author
 
 Ali Dakak  
-
-🔗 \[LinkedIn](https://cutt.ly/ali-resume-linkedin)  
-
-📄 \[Data Portfolio Resume](https://cutt.ly/ali-resume-dsportfolio)  
-
-📄 \[Tableau Resume](https://cutt.ly/ali-resume-tableau)  
-
-📄 \[GitHub Resume](https://cutt.ly/ali-resume-github)
-
+🔗 [LinkedIn](https://cutt.ly/ali-resume-linkedin)  
+📄 [Data Portfolio Resume](https://cutt.ly/ali-resume-dsportfolio)  
+📄 [Tableau Resume](https://cutt.ly/ali-resume-tableau)  
+📄 [GitHub Resume](https://cutt.ly/ali-resume-github)
