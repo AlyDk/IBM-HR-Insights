@@ -81,8 +81,6 @@ To design an executive-ready HR dashboard that:
 
 
 ![HR Dashboard](PowerBI/Potentials-Dashboard-Snapshot.png)
-![HR Dashboard](PowerBI/Potentials%20Dashboard%20Snapshot.png)
-
 
 
 ---
